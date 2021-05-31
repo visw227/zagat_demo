@@ -20,7 +20,7 @@ export function fetchRepos(text, callback) {
 
         // console.log("reponse>>", res)
         if(res.message == "Bad credentials"){
-            alert("Git hub Token eexpired -- Please re-create access token")
+            alert("Git hub Token is invalid -- Please check documentation access token")
         }
         callback(res)
 

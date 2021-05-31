@@ -300,7 +300,7 @@ export default class HomeScreen extends React.Component {
                 {this.state && this.state.noData && (
                     <View style={{ alignSelf: 'center' }}>
                         <Ionicons style={style.searchIcon} name="search" color={'blue'} size={42} />
-                        <Text style={style.welcomeText}>Search github for reepositories</Text>
+                        <Text style={style.welcomeText}>Search github for repositories</Text>
                     </View>
                 )}
                 <RepoList

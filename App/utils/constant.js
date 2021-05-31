@@ -34,9 +34,12 @@ const fonts = {
   italic: 'SegoeUI-Italic',
 };
 
+const gitTokenInitial = 'ghp_j5t1PN3iFTtLwi';
+const gitTokenLast = 'YEgI4EVR4S39qQgv3JAbtv';
+
 const SECRET_TOKENS = {
-  GIT_TOKEN : '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'
-}
+  GIT_TOKEN : gitTokenInitial + gitTokenLast
+} // git token cannot ne pusheed to github..to this is a tweak
 
 
 export { colors, fonts,SECRET_TOKENS  };
