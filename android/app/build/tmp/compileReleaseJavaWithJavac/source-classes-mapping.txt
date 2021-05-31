@@ -1,0 +1,9 @@
+com/zagat_demo/MainApplication.java
+ com.zagat_demo.MainApplication
+ com.zagat_demo.MainApplication$1
+com/zagat_demo/MainActivity.java
+ com.zagat_demo.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/zagat_demo/BuildConfig.java
+ com.zagat_demo.BuildConfig

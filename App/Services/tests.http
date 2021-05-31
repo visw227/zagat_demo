@@ -1,0 +1,31 @@
+
+
+GET https://api.github.com/search/repositories?q=doge&sort=stars
+Content-Type: application/json
+
+###
+
+
+POST http://cea19f94a753.ngrok.io/repo/
+Content-Type: application/json
+
+{
+      "id": "15452919",
+      "fullName": "ethereum/go-ethereum",
+      "createdAt": "2013-12-26T13:05:46Z",
+      "stargazersCount": 26012,
+      "language": "Go",
+      "url": "https://api.github.com/repos/ethereum/go-ethereum"
+}
+
+###
+
+GET  http://cea19f94a753.ngrok.io/repo/
+Content-Type: application/json
+
+
+
+###
+
+DELETE  http://cea19f94a753.ngrok.io/repo/338348248
+Content-Type: application/json

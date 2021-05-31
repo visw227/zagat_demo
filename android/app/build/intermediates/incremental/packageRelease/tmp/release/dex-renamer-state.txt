@@ -1,0 +1,4 @@
+#Sat May 29 16:40:40 CDT 2021
+base.0=/Users/vchikkala/Documents/dev/zagat_demo/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

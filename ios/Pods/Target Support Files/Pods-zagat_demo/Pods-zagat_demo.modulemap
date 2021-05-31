@@ -1,0 +1,6 @@
+module Pods_zagat_demo {
+  umbrella header "Pods-zagat_demo-umbrella.h"
+
+  export *
+  module * { export * }
+}
